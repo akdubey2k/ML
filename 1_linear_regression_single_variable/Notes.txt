@@ -1,0 +1,6 @@
+
+Machine learning technique.........Simple linear regression
+
+Given these home prices.... please find out the prices of homes whose area is,
+3300 square feet 
+5000 square feet
